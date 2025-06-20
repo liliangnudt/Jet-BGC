@@ -1,1 +1,1 @@
-The code for preprint "Jet-BGC" is coming soon.
+The code for "Jet-BGC: Joint Latent Embedding and Structural Fusion Bipartite Graph Clustering".
